@@ -32,7 +32,7 @@ public class exemplo {
      * Calcula o área dun círculo utilizando o radio proporcionado.
      * Emprega a fórmula matemática do produto de PI polo radio ao cadrado.
      * * @param radio O radio do círculo en formato de punto flotante (double).
-     * @return O área calculada do círculo (double)
+     * @return O área calculada do círculo (double).
      */
     public static double calcularArea(double radio) {
         return Math.PI * Math.pow(radio, 2);
